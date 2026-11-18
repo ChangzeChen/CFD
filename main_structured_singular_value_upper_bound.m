@@ -28,6 +28,7 @@
 %                   resolvent script), svds on a function handle.
 
 clearvars; close all; clc
+% comments
 
 params.kz    = 1;
 params.omega = 1;
